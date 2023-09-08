@@ -8,7 +8,7 @@
 
 ##### Sub encabezado 4
 
-## Encabezado
+# Encabezado
 
 ## Instrucciones de uso
 
