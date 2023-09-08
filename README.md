@@ -1,9 +1,9 @@
 # Github practica 2 - Generación 29 JS
 
-## Github practica 2 - Generación 29 JS
+## Sub encabezado 1
 
-### Github practica 2 - Generación 29 JS
+### Sub encabezado 2
 
-#### Github practica 2 - Generación 29 JS
+#### Sub encabezado 3
 
-##### Github practica 2 - Generación 29 JS
+##### Sub encabezado 4
