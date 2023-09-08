@@ -8,4 +8,10 @@
 
 ##### Sub encabezado 4
 
-# Encabezado
+## Encabezado
+
+## Instrucciones de uso
+
+1. pre lavado
+2. lavado
+3. post lavado
